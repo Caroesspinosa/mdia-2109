@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    margin: 0;
+    padding: 20px;
+}
+
+.heading-1 {
+    color: darkblue;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 50px;
+}
+
+.heading-2 {
+    margin-top: 50px;
+    margin-left: 60px;
+    font-size: 30px;
+    color: darkblue;
+}
+
+section {
+    margin-bottom: 60px;
+}
+
+.blockdifficulties {
+    background-color: lightblue;
+    padding: 8px;
+}
+
+.blockgoals {
+    background-color: lightblue;
+    padding: 8px;
+}
+.difficulties-list {
+    margin-left: 100px;
+}
+
+.difficulties-list li {
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: #1e293b;
+}
+
+.action-plan-list {
+    margin-left: 100px;
+}
+
+.action-plan-list li {
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: #1e293b;
+}
