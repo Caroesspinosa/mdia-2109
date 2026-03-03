@@ -20,7 +20,7 @@ I have two main areas that I would like to focus on:
 
 ## ***Action Plan***
 
-SMART User experience
+### SMART User experience
 
 - S: Design an information structure that allows users to navigate easily
 - M: Conduct testing with a minimum of 5 users to gather feedback
@@ -28,11 +28,26 @@ SMART User experience
 - R: A good structure increases overall success
 - T: Evaluate and adjust before March 31
 
-SMART Branding
+### SMART Branding
 
 - S: Define the visual aspects and the use of graphics for the hotel
 - M: Create a style guide and apply it to sections of the prototype
 - A: Ensure it aligns with the research
 - R: Ensures consistency between the visual design and the message
 - T: Complete it within the next two weeks
+
+### Activities to complete and focus on to achieve this:
+
+1. Research and analysis of competitors
+2. Definition of the target audience
+3. Initial mood board
+4. Development of basic brand guidelines
+5. Creation of wireframes
+6. Definition of visual hierarchy
+
+### Risks & solutions
+
+- Lack of time: Set daily fixed work blocks
+- Lack of feedback: Request feedback in advance
+- Late design changes: Validate decisions before moving forward
 
