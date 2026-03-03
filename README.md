@@ -20,18 +20,19 @@ I have two main areas that I would like to focus on:
 
 ## ***Action Plan***
 
-- SMART User experience
+SMART User experience
 
-S: Design an information structure that allows users to navigate easily
-M: Conduct testing with a minimum of 5 users to gather feedback
-A: Use wireframes and low-fidelity prototypes
-R: A good structure increases overall success
-T: Evaluate and adjust before March 31
+- S: Design an information structure that allows users to navigate easily
+- M: Conduct testing with a minimum of 5 users to gather feedback
+- A: Use wireframes and low-fidelity prototypes
+- R: A good structure increases overall success
+- T: Evaluate and adjust before March 31
 
-- SMART Branding
+SMART Branding
 
-S: Define the visual aspects and the use of graphics for the hotel
-M: Create a style guide and apply it to sections of the prototype
-A: Ensure it aligns with the research
-R: Ensures consistency between the visual design and the message
-T: Complete it within the next two weeks
+- S: Define the visual aspects and the use of graphics for the hotel
+- M: Create a style guide and apply it to sections of the prototype
+- A: Ensure it aligns with the research
+- R: Ensures consistency between the visual design and the message
+- T: Complete it within the next two weeks
+
